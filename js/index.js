@@ -20,4 +20,4 @@ options = {
 vrvToolkit.setOptions(options)
 
 /* Show the score */
-showScore('score', 'data/ORIGINAL Post_malone_better_now.mei') // <-- CHANGE THIS TO YOUR FILE
+showScore('score', 'ORIGINAL Post_malone_better_now.mei') // <-- CHANGE THIS TO YOUR FILE
