@@ -1,9 +1,0 @@
-@relation Converted_from_ACE_XML
-
-@attribute Range numeric
-@attribute Mean_Pitch numeric
-@attribute Pitch_Variability numeric
-@attribute Major_or_Minor numeric
-
-@data
-26.0, 66.0, 7.44, 0.0
