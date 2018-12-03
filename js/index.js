@@ -20,5 +20,4 @@ options = {
 vrvToolkit.setOptions(options)
 
 /* Show the score */
-showScore('score', 'dataset\WEEK 3\ORIGINAL Post_malone_better_now.mei')
-showScore('score', 'dataset\WEEK 3\CHANGESPost_malone_better_now.mei') // <-- CHANGE THIS TO YOUR FILE
+showScore('score', 'dataset\WEEK3\ORIGINALPost_malone_better_now.mei') // <-- CHANGE THIS TO YOUR FILE
