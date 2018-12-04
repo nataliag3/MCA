@@ -13,19 +13,21 @@
 					<persName role="lyricist" xml:id="lyricist2">Louis Bell</persName> 
 					<persName role="lyricist" xml:id="lyricist3">Frank Dukes</persName> 
 					<persName role="lyricist" xml:id="lyricist4">Bill Walsh</persName> 
+				</respStmt>
             </titleStmt>
 			
 			<pubStmt>
 				<publisher>
 					<corpName xml:id="publisher1" authURI="https://musicbrainz.org/label/e0ecd909-0477-485f-80dc-3c27ea4837ca" authority="musicbrainz">Republic Records</corpName>
 					<date>2018</date>
+				</publisher>
 			</pubStmt>
         </fileDesc>
 		
 		 <editionStmt>
     			<respStmt>
     				<resp>Sung by</resp>
-    				<corpName role="singer" authURI="https://babelnet.org/synset?word=Austin+richard+post&lang=EN&details=1&orig=Austin+richard+post" authority="BabelNet" xml:id="singer">Post Malone</corpName>
+    				<corpName role="singer" authURI="https://babelnet.org/" authority="BabelNet" xml:id="singer">Post Malone</corpName>
     			</respStmt>
             </editionStmt>
             
