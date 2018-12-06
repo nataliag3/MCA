@@ -27,7 +27,7 @@
 		 <editionStmt>
     			<respStmt>
     				<resp>Sung by</resp>
-    				<corpName role="singer" authURI="https://babelnet.org/" authority="BabelNet" xml:id="singer">Post Malone</corpName>
+    				<corpName role="singer" authURI="https://babelnet.org/synset?word=bn:17596512n&details=1&lang=EN&orig=post%20malone" authority="BabelNet" xml:id="singer">Post Malone</corpName>
     			</respStmt>
             </editionStmt>
             
