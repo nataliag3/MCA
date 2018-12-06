@@ -55,7 +55,7 @@
            /* If your element does not have an authURI attribute, copy the following line, being sure to replace the "MY-XML-ID" with your element's actual xml:id.
             document.querySelector("#meta").innerHTML += "<p>" + meiDoc.querySelector("[*|id='m-8']").textContent + "</p>"
             */
-           document.querySelector("#meta").innerHTML += "<a href=\"" + meiDoc.querySelector("[*|id='publisher1']").getAttribute('authURI') +"\"><p>" + meiDoc.querySelector("[*|id='publisher1']").textContent + "</p></a>"
+           document.querySelector("#meta").innerHTML += "<a href=\"" + meiDoc.querySelector("[*|id='publisher1']").getAttribute('authURI') +"\"><p>" + meiDoc.querySelector("[*|id='singer']").textContent + "</p></a>"
 		  }
         }
       }
